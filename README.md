@@ -50,9 +50,9 @@ $$
 ---
 # EJERCICIOS DE MATRICES
 ---
-
+---
 Ejercicio 1: Clasificar matrices
-
+---
 $$ A =
 \begin{pmatrix}
 1 & 0 \\
@@ -96,7 +96,134 @@ $$
 Tipo de matriz:
 - Triángulas superior porque todos los elementos debajo de la diagonal son cero.
 
+---
+Ejercicio 2: operaciones básicas
+---
 
+$$ A =
+\begin{pmatrix}
+2 & -1 \\
+3 & 4 \\
+\end{pmatrix}
+$$
 
+$$ B =
+\begin{pmatrix}
+5 & 2 \\
+-1 & 3 \\
+\end{pmatrix}
+$$
 
+- Calcula:
 
+A) A + B 
+
+$$ A + B =
+\begin{pmatrix}
+7 & 1 \\
+2 & 7 \\
+\end{pmatrix}
+$$
+
+B) 2A - B
+
+$$ 2A - B =
+\begin{pmatrix}
+1 & 0 \\
+7 & 5 \\
+\end{pmatrix}
+$$
+
+C) AB
+
+$$ AB =
+\begin{pmatrix}
+11 & 1 \\
+11 & 18 \\
+\end{pmatrix}
+$$
+
+D) BA
+
+$$ BA =
+\begin{pmatrix}
+16 & 3 \\
+7 & 13 \\
+\end{pmatrix}
+$$
+
+E) A^T
+
+$$ A^T =
+\begin{pmatrix}
+2 & 3 \\
+-1 & 4 \\
+\end{pmatrix}
+$$
+
+---
+Ejercicio 3: Multiplicación de cadena
+---
+
+$$ A =
+\begin{pmatrix}
+1 & 2 \\
+3 & 4 \\
+\end{pmatrix}
+$$
+
+$$ B =
+\begin{pmatrix}
+2 & 0 \\
+1 & 3 \\
+\end{pmatrix}
+$$
+
+$$ C =
+\begin{pmatrix}
+1 & 1 \\
+0 & 2 \\
+\end{pmatrix}
+$$
+
+- Demuestra que: (AB)C = A(BC)
+---
+# (AB)C:
+- AB:
+
+$$ AB =
+\begin{pmatrix}
+4 & 6 \\
+10 & 12 \\
+\end{pmatrix}
+$$
+
+- (AB)C:
+
+$$ (AB)C =
+\begin{pmatrix}
+4 & 16 \\
+10 & 34 \\
+\end{pmatrix}
+$$
+
+# A(BC):
+- BC:
+
+$$ (BC) =
+\begin{pmatrix}
+2 & 2 \\
+1 & 7 \\
+\end{pmatrix}
+$$
+
+- A(BC):
+
+$$ A(BC) =
+\begin{pmatrix}
+4 & 16 \\
+10 & 34 \\
+\end{pmatrix}
+$$
+
+# RESPUESTA: SÍ DAN LO MISMO
