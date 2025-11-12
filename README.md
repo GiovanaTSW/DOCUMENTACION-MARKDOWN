@@ -48,12 +48,20 @@ $$ A + B =
 $$
 
 ---
-# OTRO EJERCICIO
-...
+# EJERCICIOS DE MATRICES
+---
 
+Ejercicio 1: Clasificar matrices
 
+$$ A =
+\begin{pmatrix}
+1 & 0 \\
+0 & 1 \\
+\end{pmatrix}
+$$
 
-
+Tipo de matriz:
+- Identidad porque todos los elementos de la diagonal son 1.
 
 
 
