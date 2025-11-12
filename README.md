@@ -1,6 +1,6 @@
 # Tecnológico de Software
 ## Materia: Fundamentos de álgebra
-## Alumno: Tanjiro Jesús Hernández López
+## Alumno: Giovana Ruby Díaz Anduze
 ## Actividad \#16 - Matrices doc
 
 ---
@@ -63,12 +63,38 @@ $$
 Tipo de matriz:
 - Identidad porque todos los elementos de la diagonal son 1.
 
+$$ B =
+\begin{pmatrix}
+3 & 0 & 0 \\
+0 & -2 & 0 \\
+0 & 0 & 5 \\
+\end{pmatrix}
+$$
 
+Tipo de matriz:
+- Diagonal porque todos los elementos fuera de la diagonal son ceros.
 
+$$ C =
+\begin{pmatrix}
+2 & 1 & 4 \\
+1 & 3 & 5 \\
+4 & 5 & 6 \\
+\end{pmatrix}
+$$
 
----
+Tipo de matriz:
+- Simétrica porque los elementos tanto arriba como abajo de la diagonal son iguales.
 
+$$ D =
+\begin{pmatrix}
+1 & 2 & 3 \\
+0 & 4 & 5 \\
+0 & 0 & 6 \\
+\end{pmatrix}
+$$
 
+Tipo de matriz:
+- Triángulas superior porque todos los elementos debajo de la diagonal son cero.
 
 
 
