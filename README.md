@@ -187,3 +187,37 @@ $$
 $$
 
 ---
+# Ejercicio 3
+
+## Sistema
+
+$$
+\begin{cases}
+x+y+z+w=10\\
+2x+y-z+w=5\\
+x-y+z-w=1\\
+x+y-z+2w=8
+\end{cases}
+$$
+
+## Matriz reducida (Gauss–Jordan)
+
+$$
+\begin{pmatrix}
+1 & 0 & 0 & 0 & 0\\
+0 & 1 & 0 & 0 & -\frac{5}{2}\\
+0 & 0 & 1 & 0 & \frac{7}{2}\\
+0 & 0 & 0 & 1 & 5
+\end{pmatrix}
+$$
+
+## Resultado
+
+$$
+x=0,\quad
+y=-\frac{5}{2},\quad
+z=\frac{7}{2},\quad
+w=5
+$$
+
+---
