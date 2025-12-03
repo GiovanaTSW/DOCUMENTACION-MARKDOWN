@@ -221,3 +221,37 @@ w=5
 $$
 
 ---
+# Ejercicio 4
+
+## Sistema
+
+$$
+\begin{cases}
+2P + S + 3U = 100\\
+3P + S + 2U = 120\\
+P + 2S + U = 80
+\end{cases}
+$$
+
+## Matriz reducida
+
+$$
+\begin{pmatrix}
+1 & 0 & 0 & 27.5\\
+0 & 1 & 0 & 22.5\\
+0 & 0 & 1 & 7.5
+\end{pmatrix}
+$$
+
+## Resultado
+
+$$
+P=27.5,\quad
+S=22.5,\quad
+U=7.5
+$$
+
+---
+
+# Conclusión
+Se documentaron los sistemas y resultados utilizando matrices en formato LaTeX para una presentación clara, ordenada y profesional.
