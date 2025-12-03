@@ -141,3 +141,49 @@ x=1,\quad y=2,\quad z=3
 $$
 
 ---
+
+
+# Ejercicio 2
+
+## a)
+$$
+\begin{cases}
+x+y=3\\
+2x+2y=6
+\end{cases}
+$$
+
+**Conclusión:**  
+Tiene infinitas soluciones.
+
+---
+
+## b)
+$$
+\begin{cases}
+x+y=3\\
+2x+2y=7
+\end{cases}
+$$
+
+**Conclusión:**  
+No tiene solución.
+
+---
+
+## c)
+$$
+\begin{cases}
+x+y=3\\
+x-y=1
+\end{cases}
+$$
+
+**Conclusión:**  
+Solución única:
+
+$$
+(x,y)=(2,1)
+$$
+
+---
