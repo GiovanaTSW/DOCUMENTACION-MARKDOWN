@@ -9,7 +9,7 @@
 ---
 # TÍTULO: DOCUMENTACIÓN DE ECUACIONES DE PRIMER GRADO
 ---
-**Objetivo de la actividad:** 
+**Objetivo de la actividad:** Aplicar métodos algebraicos basados en matrices —como Gauss, Gauss–Jordan, matriz inversa, cofactores/adjunta y la regla de Cramer— para resolver sistemas de ecuaciones lineales, interpretando los resultados y conclusiones de manera clara y organizada.
 
 ---
 ## EJERCICIO 1
